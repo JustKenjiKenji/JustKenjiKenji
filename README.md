@@ -5,18 +5,18 @@
 
 ### Table of Contents:
 SKILLS:
-* Tools
-* Interested Projects
-* Education
-* Work
+* [Tools](#tools)
+* [Interested Projects](#interested-projects)
+* [Education](#education)
+* [Work](#work)
 
 PERSONAL:
-* Interests
-* Fun Fact
+* [Interests](#interests)
+* [Fun Fact](#fun-fact)
 
 ### SKILLS
 ----------------------------------------------------------------------------------------------
-## Tools:
+## Tools
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=js,python,cs,godot,php)](https://skillicons.dev)
 [![Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
@@ -29,25 +29,25 @@ PERSONAL:
 ### Other:
 [![Languages](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 
-## Interested Projects to do:
+## Interested Projects
 ### * Discord Authentication Bot [ <img src="https://skillicons.dev/icons?i=bots,nodejs&theme=dark" width="50" height="50"/> ]
 
 ### * Japanese Language Multiplayer Game [ <img src="https://skillicons.dev/icons?i=spring" width="25" height="25"/> ]
 
 ### * Automated bash Autograder Converter [ <img src="https://skillicons.dev/icons?i=bash,python" width="50" height="50"/> ]
 
-## Education:
+## Education
 Currently learning Adv. DB, Operating Systems, Computer Network Security and Computer Ethics
 
-## Work:
+## Work
 Currently I'm working as a TA in my university helping out with the creation of an Autograder for a variety of classes!
 
 ### PERSONAL:
 ----------------------------------------------------------------------------------------------
-## Interests:
+## Interests
 Anime, manga, videogame, photography, music and languages
 
-## Fun fact: 
+## Fun fact
 I've a lot of songs in my playlists and separate all songs in various different playlists on Spotify called:
 >    The recompilation of the EVERYTHING: vol. #
 
