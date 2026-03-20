@@ -5,8 +5,14 @@
 
 ### Table of Contents:
 SKILLS:
-* [Tools](https://github.com/JustKenjiKenji/JustKenjiKenji/edit/main/README.md#tools)
-* [Interested Projects](https://github.com/JustKenjiKenji/JustKenjiKenji/edit/main/README.md#interested-projects-to-do)
+* Tools
+* Interested Projects
+* Education
+* Work
+
+PERSONAL:
+* Interests
+* Fun Fact
 
 ### SKILLS
 ----------------------------------------------------------------------------------------------
@@ -33,9 +39,10 @@ SKILLS:
 ## Education:
 Currently learning Adv. DB, Operating Systems, Computer Network Security and Computer Ethics
 
-##
+## Work:
+Currently I'm working as a TA in my university helping out with the creation of an Autograder for a variety of classes!
 
-### Personally:
+### PERSONAL:
 ----------------------------------------------------------------------------------------------
 ## Interests:
 Anime, manga, videogame, photography, music and languages
