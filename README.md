@@ -18,7 +18,7 @@ PERSONAL:
 ----------------------------------------------------------------------------------------------
 ## Tools
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=js,python,cs,godot,php)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,python,cs,c,godot,php)](https://skillicons.dev)
 [![Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 ### Databases:
 [![Languages](https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=light)](https://skillicons.dev)
@@ -27,12 +27,14 @@ PERSONAL:
 ### Frameworks:
 [![Languages](https://skillicons.dev/icons?i=threejs,dotnet)](https://skillicons.dev)
 ### Other:
-[![Languages](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=css,html,nodejs,npm)](https://skillicons.dev)
 
 ## Interested Projects
 ### * Discord Authentication Bot [ <img src="https://skillicons.dev/icons?i=bots,nodejs&theme=dark" width="50" height="50"/> ]
 
 ### * Japanese Language Multiplayer Game [ <img src="https://skillicons.dev/icons?i=spring" width="25" height="25"/> ]
+
+### * Projects related to Computer Networks [ <img src="https://skillicons.dev/icons?i=c" width="25" height="25"/> ]
 
 ### * Automated bash Autograder Converter [ <img src="https://skillicons.dev/icons?i=bash,python" width="50" height="50"/> ]
 
