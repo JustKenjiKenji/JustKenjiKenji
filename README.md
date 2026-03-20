@@ -1,5 +1,5 @@
 # @JustKenjiKenji
-> Looking to collaborate on any project that can be websites or applications
+> Looking to collaborate on any project!
 
 [LinkedIn](https://www.linkedin.com/in/kenji-kl)
 
